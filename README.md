@@ -41,10 +41,10 @@
 - **User Experience**: Designed with a focus on usability, ensuring intuitive navigation and interactions throughout the app.
 
 ## Screenshots
-![Splash Screen](./app_screenshots/01.jpg) *Splash Screen displaying app logo and loading indication*  
+![Splash Screen](./app_screenshots/01.jpg) 
 ![CircularProgressIndicator](./app_screenshots/02.jpg)  
-![User list Screen](./app_screenshots/03.jpg)  *User List Screen showcasing user names and email addresses*  
-![User Deatils Screen](./app_screenshots/04.jpg) *User Detail Screen showing additional user information* 
+![User list Screen](./app_screenshots/03.jpg)   
+![User Deatils Screen](./app_screenshots/04.jpg) 
 ![Refresh Indicator](./app_screenshots/05.jpg)  
 
 
