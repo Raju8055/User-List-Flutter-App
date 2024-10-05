@@ -62,12 +62,6 @@
   </div>
 </div>
 
-<style>
-  div:hover {
-    transform: scale(1.05);
-  }
-</style>
-
  
 
 
