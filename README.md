@@ -44,23 +44,16 @@
 - **User Experience**: Designed with a focus on usability, ensuring intuitive navigation and interactions throughout the app.
 
 ## Screenshots
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
-  <div style="flex: 1; max-width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;">
-    <img src="./app_screenshots/01.jpg" alt="Splash Screen" style="width: 100%; height: auto; border-radius: 10px 10px 0 0;" />
-  </div>
-  <div style="flex: 1; max-width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;">
-    <img src="./app_screenshots/02.jpg" alt="CircularProgressIndicator" style="width: 100%; height: auto; border-radius: 10px 10px 0 0;" />
-  </div>
-  <div style="flex: 1; max-width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;">
-    <img src="./app_screenshots/03.jpg" alt="User List Screen" style="width: 100%; height: auto; border-radius: 10px 10px 0 0;" />
-  </div>
-  <div style="flex: 1; max-width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;">
-    <img src="./app_screenshots/04.jpg" alt="User Details Screen" style="width: 100%; height: auto; border-radius: 10px 10px 0 0;" />
-  </div>
-  <div style="flex: 1; max-width: 300px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s;">
-    <img src="./app_screenshots/05.jpg" alt="Refresh Indicator" style="width: 100%; height: auto; border-radius: 10px 10px 0 0;" />
-  </div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="./app_screenshots/01.jpg" alt="Splash Screen" width="300" />
+  <img src="./app_screenshots/02.jpg" alt="CircularProgressIndicator" width="300" />  
+  <img src="./app_screenshots/03.jpg" alt="User List Screen" width="300" />
 </div>
+<div style="display: flex; justify-content: space-around; margin-top: 10px;">
+  <img src="./app_screenshots/04.jpg" alt="User Details Screen" width="300" />
+  <img src="./app_screenshots/05.jpg" alt="Refresh Indicator" width="300" />  
+</div>
+
 
  
 
