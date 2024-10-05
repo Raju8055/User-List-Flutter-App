@@ -1,3 +1,4 @@
+
 # Appscrip-User-List-Flutter-App
 
 ## Description
@@ -19,20 +20,22 @@
 
 ### Installation
 1. **Clone the repository**: 
+   ```bash
    git clone https://github.com/Raju8055/Appscrip-User-List-Flutter-App.git
    cd appscrip-user-list-flutter-app
+   ```
    
-
 2. **Install the dependencies**: 
+   ```bash
    flutter pub get
+   ```
    
-
 3. **Run the application**: 
+   ```bash
    flutter run
+   ```
    
-
 4. **Open the app**: The app will launch on your connected device or emulator, displaying the splash screen, followed by the user list.
-
 
 ## Assumptions and Decisions
 - **State Management**: Utilized the Bloc pattern for effective state management to ensure smooth UI updates during data fetching and user interaction.
@@ -41,10 +44,10 @@
 - **User Experience**: Designed with a focus on usability, ensuring intuitive navigation and interactions throughout the app.
 
 ## Screenshots
-![Splash Screen](./app_screenshots/01.jpg) 
-![CircularProgressIndicator](./app_screenshots/02.jpg)  
-![User list Screen](./app_screenshots/03.jpg)   
-![User Deatils Screen](./app_screenshots/04.jpg) 
-![Refresh Indicator](./app_screenshots/05.jpg)  
+<img src="./app_screenshots/01.jpg" alt="Splash Screen" width="300" /> 
+<img src="./app_screenshots/02.jpg" alt="CircularProgressIndicator" width="300" />  
+<img src="./app_screenshots/03.jpg" alt="User List Screen" width="300" />   
+<img src="./app_screenshots/04.jpg" alt="User Details Screen" width="300" /> 
+<img src="./app_screenshots/05.jpg" alt="Refresh Indicator" width="300" />  
 
 
