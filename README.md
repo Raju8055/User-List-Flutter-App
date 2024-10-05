@@ -45,13 +45,13 @@
 
 ## Screenshots
 <div style="display: flex; justify-content: space-around;">
-  <img src="./app_screenshots/01.jpg" alt="Splash Screen" width="300" />
-  <img src="./app_screenshots/02.jpg" alt="CircularProgressIndicator" width="300" />  
-  <img src="./app_screenshots/03.jpg" alt="User List Screen" width="300" />
+  <img src="./app_screenshots/01.jpg" alt="Splash Screen" width="200" />
+  <img src="./app_screenshots/02.jpg" alt="CircularProgressIndicator" width="200" />  
+  <img src="./app_screenshots/03.jpg" alt="User List Screen" width="200" />
 </div>
 <div style="display: flex; justify-content: space-around; margin-top: 10px;">
-  <img src="./app_screenshots/04.jpg" alt="User Details Screen" width="300" />
-  <img src="./app_screenshots/05.jpg" alt="Refresh Indicator" width="300" />  
+  <img src="./app_screenshots/04.jpg" alt="User Details Screen" width="200" />
+  <img src="./app_screenshots/05.jpg" alt="Refresh Indicator" width="200" />  
 </div>
 
 
