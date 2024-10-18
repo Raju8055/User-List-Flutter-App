@@ -21,7 +21,7 @@
 ### Installation
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/Raju8055/Appscrip-User-List-Flutter-App.git
+   git clone https://github.com/Raju8055/User-List-Flutter-App.git
    cd appscrip-user-list-flutter-app
    ```
    
