@@ -1,8 +1,8 @@
 
-# Appscrip-User-List-Flutter-App
+# User-List-Flutter-App
 
 ## Description
-**Appscrip-User-List-Flutter-App** is a simple Flutter application designed to fetch and display user data from a public API. This app presents a clean and visually appealing user interface that lists user names and email addresses. 
+**User-List-Flutter-App** is a simple Flutter application designed to fetch and display user data from a public API. This app presents a clean and visually appealing user interface that lists user names and email addresses. 
 
 ## Features
 - Fetches user data from [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users).
